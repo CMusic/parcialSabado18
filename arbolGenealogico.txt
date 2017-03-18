@@ -9,3 +9,5 @@ del arbol genealogico salen algunas estas son
 4. hermanos: felipe
 
 5. primos segundos 
+
+6. primos segundos
