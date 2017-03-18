@@ -7,3 +7,5 @@ del arbol genealogico salen algunas estas son
 3. primos : andres - juana - cristipher y muchos mas
 
 4. hermanos: felipe
+
+5. primos segundos 
