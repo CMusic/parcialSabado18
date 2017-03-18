@@ -16,4 +16,6 @@ del arbol genealogico salen algunas estas son
 
 8. primos cuartos
 
+9. primos quintos
+
 
