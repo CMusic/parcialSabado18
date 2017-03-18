@@ -5,3 +5,5 @@ del arbol genealogico salen algunas estas son
 2. abuelos : antonio - elvia - rosa - carlos
 
 3. primos : andres - juana - cristipher y muchos mas
+
+4. hermanos: felipe
